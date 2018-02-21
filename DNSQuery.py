@@ -1,8 +1,8 @@
-''''' 
-Created on 2018-2-20 
+#!/usr/bin/env python  
+#Created on 2018-2-20 
+#Simple resolving and response to A record queries. 
+#@author: Ni Luo
  
-@author: Ni Luo
-'''  
   
 import socketserver  
 import struct  
