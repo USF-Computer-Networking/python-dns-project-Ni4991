@@ -1,2 +1,3 @@
-# python-dns-project-Ni4991
-python-dns-project-Ni4991 created by GitHub Classroom
+# DNSQuery
+What it does: a simple implementation of a DNS server that can resolve and respond to A record queries.
+Usage:nslookup www.google.com
