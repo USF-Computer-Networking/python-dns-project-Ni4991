@@ -1,7 +1,7 @@
 #!/usr/bin/env python  
 #Created on 2018-2-20 
 #Simple resolving and response to A record queries. 
-#@author: Ni Luo
+#https://yq.aliyun.com/ziliao/135860
  
   
 import socketserver  
