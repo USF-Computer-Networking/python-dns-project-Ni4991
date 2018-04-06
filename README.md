@@ -1,4 +1,5 @@
-# DNSQuery
-What it does: a simple implementation of a DNS server that can resolve and respond to A record queries.\n
-reference: https://yq.aliyun.com/ziliao/135860
-Usage:nslookup www.google.com
+
+#DNS.py
+
+I followed instructions of [a youtube video](https://www.youtube.com/watch?v=D0SLpD7JvZI) by HowCode.</br>
+Usage: `DNS.py <server's ip address>`
