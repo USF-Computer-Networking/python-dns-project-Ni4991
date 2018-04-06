@@ -53,6 +53,14 @@ class Client:
 if(len(sys.argv) > 1)
     client = Client(sys.argv[1])
 else:
+    while True:
+        print "Enter help for usage, enter continue to start the server."
+            action = raw_input()
+                if action == "help":
+                    print("Enter your message, all users will receive.")
+                elif action == "continue":
+                    break
+
     server = Server()
     server.run()
         
